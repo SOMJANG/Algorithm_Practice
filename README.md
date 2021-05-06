@@ -4,10 +4,8 @@
 ### Since 2021.05.01 ~
 
 ## Data Structure
-### Step 1 - Stack ( 스택 )
-#### 코드 : https://bit.ly/3t43tzf
-#### 설명 : https://bit.ly/3tddg5Y
 
-### Step 2 - Queue ( 큐 )
-#### 코드 : 
-#### 설명 : https://bit.ly/3h8wQOq
+|순번|날짜|자료구조|코드|설명|비고|
+|:-----:|-----|-----|-----|-----|-----|
+|1|2021-05-01|Stack ( 스택 )|https://bit.ly/3t43tzf|https://bit.ly/3tddg5Y|
+|2|2021-05-07|Queue ( 큐 )|https://bit.ly/3eWG5yp|https://bit.ly/3h8wQOq|
